@@ -1,1 +1,1 @@
-# MediaStoroExample
+# MediaStoreExample
